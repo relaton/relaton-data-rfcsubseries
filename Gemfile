@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gem 'relaton-cli'
-gem 'relaton-iana'
+gem 'relaton-ietf'

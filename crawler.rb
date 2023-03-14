@@ -1,11 +1,5 @@
 require 'fileutils'
-
-t1 = Time.now
-puts "Started at: #{t1}"
+require 'relaton_ietf'
 
 FileUtils.rm_rf("data")
-system("relaton fetch-data ietf-rfcsubseries")
-
-t2 = Time.now
-puts "Stopped at: #{t2}"
-puts "Done in: #{(t2 - t1).round} sec."
+RelatonIetf::DataFetcher.fetch("ietf-rfcsubseries")
