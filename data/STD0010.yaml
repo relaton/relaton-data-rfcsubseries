@@ -25,42 +25,599 @@ relation:
 - type: includes
   bibitem:
     id: RFC821
+    title:
+    - content: Simple Mail Transfer Protocol
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc821
+      type: src
+    type: standard
     docid:
     - id: RFC 821
       type: IETF
       primary: true
-    formattedref:
-      content: RFC0821
-      format: text/plain
+    - id: 10.17487/RFC0821
+      type: DOI
+    docnumber: RFC0821
+    date:
+    - type: published
+      value: 1982-08
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: J
+            formatted_initials:
+              content: J.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Postel
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: J. Postel
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 1982-08
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>The objective of Simple Mail Transfer Protocol (SMTP) is to transfer
+        mail reliably and efficiently. SMTP is independent of the particular transmission
+        subsystem and requires only a reliable ordered data stream channel. Obsoletes
+        RFC 788, 780, and 772.</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    relation:
+    - type: obsoletedBy
+      bibitem:
+        id: RFC2821
+        docid:
+        - id: RFC2821
+          type: IETF
+          primary: true
+        formattedref:
+          content: RFC2821
+          format: text/plain
+    series:
+    - title:
+        content: STD
+        format: text/plain
+      number: '10'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '821'
+    - type: stream
+      title:
+        content: Legacy
+        format: text/plain
+    keyword:
+    - content: SMTP
+    ext:
+      stream: Legacy
 - type: includes
   bibitem:
     id: RFC974
+    title:
+    - content: Mail routing and the domain system
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc974
+      type: src
+    type: standard
     docid:
     - id: RFC 974
       type: IETF
       primary: true
-    formattedref:
-      content: RFC0974
-      format: text/plain
+    - id: 10.17487/RFC0974
+      type: DOI
+    docnumber: RFC0974
+    date:
+    - type: published
+      value: 1986-01
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: C
+            formatted_initials:
+              content: C.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Partridge
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: C. Partridge
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 1986-01
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>This RFC presents a description of how mail systems on the Internet
+        are expected to route messages based on information from the domain system.
+        This involves a discussion of how mailers interpret MX RRs, which are used
+        for message routing.</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    relation:
+    - type: obsoletedBy
+      bibitem:
+        id: RFC2821
+        docid:
+        - id: RFC2821
+          type: IETF
+          primary: true
+        formattedref:
+          content: RFC2821
+          format: text/plain
+    series:
+    - title:
+        content: STD
+        format: text/plain
+      number: '10'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '974'
+    - type: stream
+      title:
+        content: Legacy
+        format: text/plain
+    keyword:
+    - content: DNS-MX
+    ext:
+      stream: Legacy
 - type: includes
   bibitem:
     id: RFC1869
+    title:
+    - content: SMTP Service Extensions
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc1869
+      type: src
+    type: standard
     docid:
     - id: RFC 1869
       type: IETF
       primary: true
-    formattedref:
-      content: RFC1869
-      format: text/plain
+    - id: 10.17487/RFC1869
+      type: DOI
+    docnumber: RFC1869
+    date:
+    - type: published
+      value: 1995-11
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: J
+            formatted_initials:
+              content: J.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Klensin
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: J. Klensin
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: N
+            formatted_initials:
+              content: N.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Freed
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: N. Freed
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: M
+            formatted_initials:
+              content: M.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Rose
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: M. Rose
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: E
+            formatted_initials:
+              content: E.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Stefferud
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: E. Stefferud
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: D
+            formatted_initials:
+              content: D.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Crocker
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: D. Crocker
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 1995-11
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>This memo defines a framework for extending the SMTP service by
+        defining a means whereby a server SMTP can inform a client SMTP as to the
+        service extensions it supports. [STANDARDS-TRACK]</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    relation:
+    - type: obsoletedBy
+      bibitem:
+        id: RFC2821
+        docid:
+        - id: RFC2821
+          type: IETF
+          primary: true
+        formattedref:
+          content: RFC2821
+          format: text/plain
+    series:
+    - title:
+        content: STD
+        format: text/plain
+      number: '10'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '1869'
+    - type: stream
+      title:
+        content: IETF
+        format: text/plain
+    keyword:
+    - content: ESMTP
+    - content: Simple
+    - content: Mail
+    - content: Transfer
+    - content: Protocol
+    editorialgroup:
+    - name: smtpext
+    ext:
+      stream: IETF
 - type: includes
   bibitem:
     id: RFC1870
+    title:
+    - content: SMTP Service Extension for Message Size Declaration
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc1870
+      type: src
+    type: standard
     docid:
     - id: RFC 1870
       type: IETF
       primary: true
-    formattedref:
-      content: RFC1870
-      format: text/plain
+    - id: 10.17487/RFC1870
+      type: DOI
+    docnumber: RFC1870
+    date:
+    - type: published
+      value: 1995-11
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: J
+            formatted_initials:
+              content: J.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Klensin
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: J. Klensin
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: N
+            formatted_initials:
+              content: N.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Freed
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: N. Freed
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: K
+            formatted_initials:
+              content: K.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Moore
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: K. Moore
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 1995-11
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>This memo defines an extension to the SMTP service whereby an SMTP
+        client and server may interact to give the server an opportunity to decline
+        to accept a message (perhaps temporarily) based on the client's estimate of
+        the message size. [STANDARDS-TRACK]</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    series:
+    - title:
+        content: STD
+        format: text/plain
+      number: '10'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '1870'
+    - type: stream
+      title:
+        content: IETF
+        format: text/plain
+    keyword:
+    - content: SMTP-SIZE
+    - content: Simple Mail Transfer Protocol
+    editorialgroup:
+    - name: smtpext
+    ext:
+      stream: IETF
 ext:
   schema-version: v1.0.1

@@ -25,22 +25,274 @@ relation:
 - type: includes
   bibitem:
     id: RFC3552
+    title:
+    - content: Guidelines for Writing RFC Text on Security Considerations
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc3552
+      type: src
+    type: standard
     docid:
     - id: RFC 3552
       type: IETF
       primary: true
-    formattedref:
-      content: RFC3552
-      format: text/plain
+    - id: 10.17487/RFC3552
+      type: DOI
+    docnumber: RFC3552
+    date:
+    - type: published
+      value: 2003-07
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: E
+            formatted_initials:
+              content: E.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Rescorla
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: E. Rescorla
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: B
+            formatted_initials:
+              content: B.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Korver
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: B. Korver
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 2003-07
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>All RFCs are required to have a Security Considerations section.
+        Historically, such sections have been relatively weak. This document provides
+        guidelines to RFC authors on how to write a good Security Considerations section.
+        This document specifies an Internet Best Current Practices for the Internet
+        Community, and requests discussion and suggestions for improvements.</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    series:
+    - title:
+        content: BCP
+        format: text/plain
+      number: '72'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '3552'
+    - type: stream
+      title:
+        content: IAB
+        format: text/plain
+    keyword:
+    - content: RFC
+    - content: 'Request for Comment '
+    - content: Security Considerations
+    ext:
+      stream: IAB
 - type: includes
   bibitem:
     id: RFC9416
+    title:
+    - content: Security Considerations for Transient Numeric Identifiers Employed
+        in Network Protocols
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.rfc-editor.org/info/rfc9416
+      type: src
+    type: standard
     docid:
     - id: RFC 9416
       type: IETF
       primary: true
-    formattedref:
-      content: RFC9416
-      format: text/plain
+    - id: 10.17487/RFC9416
+      type: DOI
+    docnumber: RFC9416
+    date:
+    - type: published
+      value: 2023-07
+    contributor:
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: F
+            formatted_initials:
+              content: F.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Gont
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: F. Gont
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - person:
+        name:
+          given:
+            forename:
+            - content: 
+              language:
+              - en
+              script:
+              - Latn
+              initial: I
+            formatted_initials:
+              content: I.
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Arce
+            language:
+            - en
+            script:
+            - Latn
+          completename:
+            content: I. Arce
+            language:
+            - en
+            script:
+            - Latn
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: RFC Publisher
+      role:
+      - type: publisher
+    - organization:
+        name:
+        - content: RFC Series
+      role:
+      - type: authorizer
+    revdate: 2023-07
+    language:
+    - en
+    script:
+    - Latn
+    abstract:
+    - content: "<p>Poor selection of transient numerical identifiers in protocols
+        such as the TCP/IP suite has historically led to a number of attacks on implementations,
+        ranging from Denial of Service (DoS) or data injection to information leakages
+        that can be exploited by pervasive monitoring. Due diligence in the specification
+        of transient numeric identifiers is required even when cryptographic techniques
+        are employed, since these techniques might not mitigate all the associated
+        issues. This document formally updates RFC 3552, incorporating requirements
+        for transient numeric identifiers, to prevent flaws in future protocols and
+        implementations.</p>"
+      language:
+      - en
+      script:
+      - Latn
+      format: text/html
+    relation:
+    - type: updates
+      bibitem:
+        id: RFC3552
+        docid:
+        - id: RFC3552
+          type: IETF
+          primary: true
+        formattedref:
+          content: RFC3552
+          format: text/plain
+    series:
+    - title:
+        content: BCP
+        format: text/plain
+      number: '72'
+    - title:
+        content: RFC
+        format: text/plain
+      number: '9416'
+    - type: stream
+      title:
+        content: IETF
+        format: text/plain
+    keyword:
+    - content: security
+    - content: vulnerability
+    - content: algorithm
+    - content: attack
+    - content: fingerprinting
+    ext:
+      stream: IETF
 ext:
   schema-version: v1.0.1
