@@ -242,4 +242,6 @@ relation:
       - content: Concise-MIB
 ext:
   schema_version: v1.0.1
+  doctype:
+    content: rfc
   flavor: ietf

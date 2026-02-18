@@ -123,4 +123,6 @@ relation:
       - content: Point-to-Point Protocol
 ext:
   schema_version: v1.0.1
+  doctype:
+    content: rfc
   flavor: ietf

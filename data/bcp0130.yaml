@@ -138,4 +138,6 @@ relation:
       - content: open shortest path first
 ext:
   schema_version: v1.0.1
+  doctype:
+    content: rfc
   flavor: ietf

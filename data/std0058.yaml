@@ -398,4 +398,6 @@ relation:
       - content: Simple Network Management Protocol Version 2
 ext:
   schema_version: v1.0.1
+  doctype:
+    content: rfc
   flavor: ietf
