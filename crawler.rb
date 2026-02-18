@@ -1,7 +1,7 @@
 require 'fileutils'
-require 'relaton_ietf'
+require 'relaton/ietf/data_fetcher'
 
 FileUtils.rm_rf("data")
 FileUtils.rm Dir.glob("index*")
 
-RelatonIetf::DataFetcher.fetch("ietf-rfcsubseries")
+Relaton::Ietf::DataFetcher.fetch("ietf-rfcsubseries")
