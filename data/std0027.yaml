@@ -1,8 +1,9 @@
 ---
 id: STD27
-type: standard
 schema_version: v1.5.6
-formattedref: STD27
+type: standard
+formattedref:
+  content: STD27
 title:
 - language: en
   script: Latn

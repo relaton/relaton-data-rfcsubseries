@@ -1,8 +1,9 @@
 ---
 id: BCP227
-type: standard
 schema_version: v1.5.6
-formattedref: BCP227
+type: standard
+formattedref:
+  content: BCP227
 title:
 - language: en
   script: Latn
@@ -104,7 +105,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC4253
+        formattedref:
+          content: RFC4253
         docidentifier:
         - content: RFC4253
           type: IETF

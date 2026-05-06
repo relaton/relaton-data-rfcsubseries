@@ -1,8 +1,9 @@
 ---
 id: STD66
-type: standard
 schema_version: v1.5.6
-formattedref: STD66
+type: standard
+formattedref:
+  content: STD66
 title:
 - language: en
   script: Latn
@@ -135,7 +136,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1738
+        formattedref:
+          content: RFC1738
         docidentifier:
         - content: RFC1738
           type: IETF

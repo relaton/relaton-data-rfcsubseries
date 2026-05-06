@@ -1,8 +1,9 @@
 ---
 id: BCP218
-type: standard
 schema_version: v1.5.6
-formattedref: BCP218
+type: standard
+formattedref:
+  content: BCP218
 title:
 - language: en
   script: Latn
@@ -129,14 +130,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3961
+        formattedref:
+          content: RFC3961
         docidentifier:
         - content: RFC3961
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4120
+        formattedref:
+          content: RFC4120
         docidentifier:
         - content: RFC4120
           type: IETF

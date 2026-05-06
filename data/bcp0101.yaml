@@ -1,8 +1,9 @@
 ---
 id: BCP101
-type: standard
 schema_version: v1.5.6
-formattedref: BCP101
+type: standard
+formattedref:
+  content: BCP101
 title:
 - language: en
   script: Latn
@@ -371,49 +372,56 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2028
+        formattedref:
+          content: RFC2028
         docidentifier:
         - content: RFC2028
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2418
+        formattedref:
+          content: RFC2418
         docidentifier:
         - content: RFC2418
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3005
+        formattedref:
+          content: RFC3005
         docidentifier:
         - content: RFC3005
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3710
+        formattedref:
+          content: RFC3710
         docidentifier:
         - content: RFC3710
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3929
+        formattedref:
+          content: RFC3929
         docidentifier:
         - content: RFC3929
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4633
+        formattedref:
+          content: RFC4633
         docidentifier:
         - content: RFC4633
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6702
+        formattedref:
+          content: RFC6702
         docidentifier:
         - content: RFC6702
           type: IETF

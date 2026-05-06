@@ -1,8 +1,9 @@
 ---
 id: BCP122
-type: standard
 schema_version: v1.5.6
-formattedref: BCP122
+type: standard
+formattedref:
+  content: BCP122
 title:
 - language: en
   script: Latn

@@ -1,8 +1,9 @@
 ---
 id: STD69
-type: standard
 schema_version: v1.5.6
-formattedref: STD69
+type: standard
+formattedref:
+  content: STD69
 title:
 - language: en
   script: Latn

@@ -1,8 +1,9 @@
 ---
 id: BCP204
-type: standard
 schema_version: v1.5.6
-formattedref: BCP204
+type: standard
+formattedref:
+  content: BCP204
 title:
 - language: en
   script: Latn

@@ -1,8 +1,9 @@
 ---
 id: BCP216
-type: standard
 schema_version: v1.5.6
-formattedref: BCP216
+type: standard
+formattedref:
+  content: BCP216
 title:
 - language: en
   script: Latn
@@ -151,7 +152,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC8126
+        formattedref:
+          content: RFC8126
         docidentifier:
         - content: RFC8126
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP82
-type: standard
 schema_version: v1.5.6
-formattedref: BCP82
+type: standard
+formattedref:
+  content: BCP82
 title:
 - language: en
   script: Latn
@@ -95,7 +96,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2434
+        formattedref:
+          content: RFC2434
         docidentifier:
         - content: RFC2434
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP49
-type: standard
 schema_version: v1.5.6
-formattedref: BCP49
+type: standard
+formattedref:
+  content: BCP49
 title:
 - language: en
   script: Latn
@@ -89,42 +90,48 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2874
+        formattedref:
+          content: RFC2874
         docidentifier:
         - content: RFC2874
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2772
+        formattedref:
+          content: RFC2772
         docidentifier:
         - content: RFC2772
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2766
+        formattedref:
+          content: RFC2766
         docidentifier:
         - content: RFC2766
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2553
+        formattedref:
+          content: RFC2553
         docidentifier:
         - content: RFC2553
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC1886
+        formattedref:
+          content: RFC1886
         docidentifier:
         - content: RFC1886
           type: IETF
           primary: true
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC3596
+        formattedref:
+          content: RFC3596
         docidentifier:
         - content: RFC3596
           type: IETF

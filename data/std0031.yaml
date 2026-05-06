@@ -1,8 +1,9 @@
 ---
 id: STD31
-type: standard
 schema_version: v1.5.6
-formattedref: STD31
+type: standard
+formattedref:
+  content: STD31
 title:
 - language: en
   script: Latn

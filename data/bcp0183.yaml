@@ -1,8 +1,9 @@
 ---
 id: BCP183
-type: standard
 schema_version: v1.5.6
-formattedref: BCP183
+type: standard
+formattedref:
+  content: BCP183
 title:
 - language: en
   script: Latn

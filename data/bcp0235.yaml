@@ -1,8 +1,9 @@
 ---
 id: BCP235
-type: standard
 schema_version: v1.5.6
-formattedref: BCP235
+type: standard
+formattedref:
+  content: BCP235
 title:
 - language: en
   script: Latn
@@ -130,14 +131,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1123
+        formattedref:
+          content: RFC1123
         docidentifier:
         - content: RFC1123
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC1536
+        formattedref:
+          content: RFC1536
         docidentifier:
         - content: RFC1536
           type: IETF

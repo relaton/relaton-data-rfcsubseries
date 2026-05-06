@@ -1,8 +1,9 @@
 ---
 id: BCP179
-type: standard
 schema_version: v1.5.6
-formattedref: BCP179
+type: standard
+formattedref:
+  content: BCP179
 title:
 - language: en
   script: Latn
@@ -134,28 +135,32 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1964
+        formattedref:
+          content: RFC1964
         docidentifier:
         - content: RFC1964
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4120
+        formattedref:
+          content: RFC4120
         docidentifier:
         - content: RFC4120
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4121
+        formattedref:
+          content: RFC4121
         docidentifier:
         - content: RFC4121
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4757
+        formattedref:
+          content: RFC4757
         docidentifier:
         - content: RFC4757
           type: IETF

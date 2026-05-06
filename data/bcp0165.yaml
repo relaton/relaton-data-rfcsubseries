@@ -1,8 +1,9 @@
 ---
 id: BCP165
-type: standard
 schema_version: v1.5.6
-formattedref: BCP165
+type: standard
+formattedref:
+  content: BCP165
 title:
 - language: en
   script: Latn
@@ -195,42 +196,48 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2780
+        formattedref:
+          content: RFC2780
         docidentifier:
         - content: RFC2780
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2782
+        formattedref:
+          content: RFC2782
         docidentifier:
         - content: RFC2782
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3828
+        formattedref:
+          content: RFC3828
         docidentifier:
         - content: RFC3828
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4340
+        formattedref:
+          content: RFC4340
         docidentifier:
         - content: RFC4340
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4960
+        formattedref:
+          content: RFC4960
         docidentifier:
         - content: RFC4960
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5595
+        formattedref:
+          content: RFC5595
         docidentifier:
         - content: RFC5595
           type: IETF

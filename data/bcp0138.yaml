@@ -1,8 +1,9 @@
 ---
 id: BCP138
-type: standard
 schema_version: v1.5.6
-formattedref: BCP138
+type: standard
+formattedref:
+  content: BCP138
 title:
 - language: en
   script: Latn
@@ -114,21 +115,24 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3463
+        formattedref:
+          content: RFC3463
         docidentifier:
         - content: RFC3463
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4468
+        formattedref:
+          content: RFC4468
         docidentifier:
         - content: RFC4468
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4954
+        formattedref:
+          content: RFC4954
         docidentifier:
         - content: RFC4954
           type: IETF

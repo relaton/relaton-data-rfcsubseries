@@ -1,8 +1,9 @@
 ---
 id: STD40
-type: standard
 schema_version: v1.5.6
-formattedref: STD40
+type: standard
+formattedref:
+  content: STD40
 title:
 - language: en
   script: Latn

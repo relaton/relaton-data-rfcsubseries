@@ -1,8 +1,9 @@
 ---
 id: BCP212
-type: standard
 schema_version: v1.5.6
-formattedref: BCP212
+type: standard
+formattedref:
+  content: BCP212
 title:
 - language: en
   script: Latn
@@ -126,7 +127,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC6749
+        formattedref:
+          content: RFC6749
         docidentifier:
         - content: RFC6749
           type: IETF

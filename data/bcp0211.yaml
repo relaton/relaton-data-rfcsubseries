@@ -1,8 +1,9 @@
 ---
 id: BCP211
-type: standard
 schema_version: v1.5.6
-formattedref: BCP211
+type: standard
+formattedref:
+  content: BCP211
 title:
 - language: en
   script: Latn

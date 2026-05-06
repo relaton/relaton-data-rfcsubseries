@@ -1,8 +1,9 @@
 ---
 id: BCP87
-type: standard
 schema_version: v1.5.6
-formattedref: BCP87
+type: standard
+formattedref:
+  content: BCP87
 title:
 - language: en
   script: Latn

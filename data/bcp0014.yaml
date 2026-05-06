@@ -1,8 +1,9 @@
 ---
 id: BCP14
-type: standard
 schema_version: v1.5.6
-formattedref: BCP14
+type: standard
+formattedref:
+  content: BCP14
 title:
 - language: en
   script: Latn
@@ -172,7 +173,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2119
+        formattedref:
+          content: RFC2119
         docidentifier:
         - content: RFC2119
           type: IETF

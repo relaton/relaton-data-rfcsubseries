@@ -1,8 +1,9 @@
 ---
 id: BCP195
-type: standard
 schema_version: v1.5.6
-formattedref: BCP195
+type: standard
+formattedref:
+  content: BCP195
 title:
 - language: en
   script: Latn
@@ -137,588 +138,672 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3261
+        formattedref:
+          content: RFC3261
         docidentifier:
         - content: RFC3261
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3329
+        formattedref:
+          content: RFC3329
         docidentifier:
         - content: RFC3329
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3436
+        formattedref:
+          content: RFC3436
         docidentifier:
         - content: RFC3436
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3470
+        formattedref:
+          content: RFC3470
         docidentifier:
         - content: RFC3470
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3501
+        formattedref:
+          content: RFC3501
         docidentifier:
         - content: RFC3501
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3552
+        formattedref:
+          content: RFC3552
         docidentifier:
         - content: RFC3552
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3568
+        formattedref:
+          content: RFC3568
         docidentifier:
         - content: RFC3568
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3656
+        formattedref:
+          content: RFC3656
         docidentifier:
         - content: RFC3656
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3749
+        formattedref:
+          content: RFC3749
         docidentifier:
         - content: RFC3749
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3767
+        formattedref:
+          content: RFC3767
         docidentifier:
         - content: RFC3767
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3856
+        formattedref:
+          content: RFC3856
         docidentifier:
         - content: RFC3856
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3871
+        formattedref:
+          content: RFC3871
         docidentifier:
         - content: RFC3871
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3887
+        formattedref:
+          content: RFC3887
         docidentifier:
         - content: RFC3887
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3903
+        formattedref:
+          content: RFC3903
         docidentifier:
         - content: RFC3903
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3943
+        formattedref:
+          content: RFC3943
         docidentifier:
         - content: RFC3943
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3983
+        formattedref:
+          content: RFC3983
         docidentifier:
         - content: RFC3983
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4097
+        formattedref:
+          content: RFC4097
         docidentifier:
         - content: RFC4097
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4111
+        formattedref:
+          content: RFC4111
         docidentifier:
         - content: RFC4111
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4162
+        formattedref:
+          content: RFC4162
         docidentifier:
         - content: RFC4162
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4168
+        formattedref:
+          content: RFC4168
         docidentifier:
         - content: RFC4168
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4217
+        formattedref:
+          content: RFC4217
         docidentifier:
         - content: RFC4217
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4235
+        formattedref:
+          content: RFC4235
         docidentifier:
         - content: RFC4235
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4261
+        formattedref:
+          content: RFC4261
         docidentifier:
         - content: RFC4261
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4279
+        formattedref:
+          content: RFC4279
         docidentifier:
         - content: RFC4279
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4497
+        formattedref:
+          content: RFC4497
         docidentifier:
         - content: RFC4497
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4513
+        formattedref:
+          content: RFC4513
         docidentifier:
         - content: RFC4513
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4531
+        formattedref:
+          content: RFC4531
         docidentifier:
         - content: RFC4531
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4540
+        formattedref:
+          content: RFC4540
         docidentifier:
         - content: RFC4540
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4582
+        formattedref:
+          content: RFC4582
         docidentifier:
         - content: RFC4582
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4616
+        formattedref:
+          content: RFC4616
         docidentifier:
         - content: RFC4616
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4642
+        formattedref:
+          content: RFC4642
         docidentifier:
         - content: RFC4642
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4680
+        formattedref:
+          content: RFC4680
         docidentifier:
         - content: RFC4680
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4681
+        formattedref:
+          content: RFC4681
         docidentifier:
         - content: RFC4681
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4712
+        formattedref:
+          content: RFC4712
         docidentifier:
         - content: RFC4712
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4732
+        formattedref:
+          content: RFC4732
         docidentifier:
         - content: RFC4732
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4743
+        formattedref:
+          content: RFC4743
         docidentifier:
         - content: RFC4743
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4744
+        formattedref:
+          content: RFC4744
         docidentifier:
         - content: RFC4744
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4785
+        formattedref:
+          content: RFC4785
         docidentifier:
         - content: RFC4785
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4791
+        formattedref:
+          content: RFC4791
         docidentifier:
         - content: RFC4791
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4823
+        formattedref:
+          content: RFC4823
         docidentifier:
         - content: RFC4823
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4851
+        formattedref:
+          content: RFC4851
         docidentifier:
         - content: RFC4851
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4964
+        formattedref:
+          content: RFC4964
         docidentifier:
         - content: RFC4964
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4975
+        formattedref:
+          content: RFC4975
         docidentifier:
         - content: RFC4975
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4976
+        formattedref:
+          content: RFC4976
         docidentifier:
         - content: RFC4976
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC4992
+        formattedref:
+          content: RFC4992
         docidentifier:
         - content: RFC4992
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5018
+        formattedref:
+          content: RFC5018
         docidentifier:
         - content: RFC5018
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5019
+        formattedref:
+          content: RFC5019
         docidentifier:
         - content: RFC5019
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5023
+        formattedref:
+          content: RFC5023
         docidentifier:
         - content: RFC5023
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5024
+        formattedref:
+          content: RFC5024
         docidentifier:
         - content: RFC5024
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5049
+        formattedref:
+          content: RFC5049
         docidentifier:
         - content: RFC5049
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5054
+        formattedref:
+          content: RFC5054
         docidentifier:
         - content: RFC5054
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5091
+        formattedref:
+          content: RFC5091
         docidentifier:
         - content: RFC5091
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5158
+        formattedref:
+          content: RFC5158
         docidentifier:
         - content: RFC5158
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5216
+        formattedref:
+          content: RFC5216
         docidentifier:
         - content: RFC5216
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5238
+        formattedref:
+          content: RFC5238
         docidentifier:
         - content: RFC5238
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5263
+        formattedref:
+          content: RFC5263
         docidentifier:
         - content: RFC5263
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5281
+        formattedref:
+          content: RFC5281
         docidentifier:
         - content: RFC5281
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5364
+        formattedref:
+          content: RFC5364
         docidentifier:
         - content: RFC5364
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5415
+        formattedref:
+          content: RFC5415
         docidentifier:
         - content: RFC5415
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5422
+        formattedref:
+          content: RFC5422
         docidentifier:
         - content: RFC5422
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5456
+        formattedref:
+          content: RFC5456
         docidentifier:
         - content: RFC5456
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5734
+        formattedref:
+          content: RFC5734
         docidentifier:
         - content: RFC5734
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5878
+        formattedref:
+          content: RFC5878
         docidentifier:
         - content: RFC5878
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5953
+        formattedref:
+          content: RFC5953
         docidentifier:
         - content: RFC5953
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6012
+        formattedref:
+          content: RFC6012
         docidentifier:
         - content: RFC6012
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6042
+        formattedref:
+          content: RFC6042
         docidentifier:
         - content: RFC6042
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6083
+        formattedref:
+          content: RFC6083
         docidentifier:
         - content: RFC6083
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6084
+        formattedref:
+          content: RFC6084
         docidentifier:
         - content: RFC6084
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6176
+        formattedref:
+          content: RFC6176
         docidentifier:
         - content: RFC6176
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6347
+        formattedref:
+          content: RFC6347
         docidentifier:
         - content: RFC6347
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6353
+        formattedref:
+          content: RFC6353
         docidentifier:
         - content: RFC6353
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6367
+        formattedref:
+          content: RFC6367
         docidentifier:
         - content: RFC6367
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6460
+        formattedref:
+          content: RFC6460
         docidentifier:
         - content: RFC6460
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6614
+        formattedref:
+          content: RFC6614
         docidentifier:
         - content: RFC6614
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6739
+        formattedref:
+          content: RFC6739
         docidentifier:
         - content: RFC6739
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6749
+        formattedref:
+          content: RFC6749
         docidentifier:
         - content: RFC6749
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6750
+        formattedref:
+          content: RFC6750
         docidentifier:
         - content: RFC6750
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC7030
+        formattedref:
+          content: RFC7030
         docidentifier:
         - content: RFC7030
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC7465
+        formattedref:
+          content: RFC7465
         docidentifier:
         - content: RFC7465
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC7525
+        formattedref:
+          content: RFC7525
         docidentifier:
         - content: RFC7525
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC7562
+        formattedref:
+          content: RFC7562
         docidentifier:
         - content: RFC7562
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC7568
+        formattedref:
+          content: RFC7568
         docidentifier:
         - content: RFC7568
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC8261
+        formattedref:
+          content: RFC8261
         docidentifier:
         - content: RFC8261
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC8422
+        formattedref:
+          content: RFC8422
         docidentifier:
         - content: RFC8422
           type: IETF
@@ -878,14 +963,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC5288
+        formattedref:
+          content: RFC5288
         docidentifier:
         - content: RFC5288
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6066
+        formattedref:
+          content: RFC6066
         docidentifier:
         - content: RFC6066
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP90
-type: standard
 schema_version: v1.5.6
-formattedref: BCP90
+type: standard
+formattedref:
+  content: BCP90
 title:
 - language: en
   script: Latn

@@ -1,8 +1,9 @@
 ---
 id: STD10
-type: standard
 schema_version: v1.5.6
-formattedref: STD10
+type: standard
+formattedref:
+  content: STD10
 title:
 - language: en
   script: Latn
@@ -89,7 +90,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC2821
+        formattedref:
+          content: RFC2821
         docidentifier:
         - content: RFC2821
           type: IETF
@@ -176,7 +178,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC2821
+        formattedref:
+          content: RFC2821
         docidentifier:
         - content: RFC2821
           type: IETF
@@ -359,7 +362,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC2821
+        formattedref:
+          content: RFC2821
         docidentifier:
         - content: RFC2821
           type: IETF

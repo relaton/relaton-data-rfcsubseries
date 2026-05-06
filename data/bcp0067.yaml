@@ -1,8 +1,9 @@
 ---
 id: BCP67
-type: standard
 schema_version: v1.5.6
-formattedref: BCP67
+type: standard
+formattedref:
+  content: BCP67
 title:
 - language: en
   script: Latn
@@ -138,14 +139,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3265
+        formattedref:
+          content: RFC3265
         docidentifier:
         - content: RFC3265
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3969
+        formattedref:
+          content: RFC3969
         docidentifier:
         - content: RFC3969
           type: IETF
@@ -277,7 +280,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC5727
+        formattedref:
+          content: RFC5727
         docidentifier:
         - content: RFC5727
           type: IETF

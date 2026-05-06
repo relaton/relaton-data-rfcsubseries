@@ -1,8 +1,9 @@
 ---
 id: STD13
-type: standard
 schema_version: v1.5.6
-formattedref: STD13
+type: standard
+formattedref:
+  content: STD13
 title:
 - language: en
   script: Latn

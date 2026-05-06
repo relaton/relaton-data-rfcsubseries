@@ -1,8 +1,9 @@
 ---
 id: STD16
-type: standard
 schema_version: v1.5.6
-formattedref: STD16
+type: standard
+formattedref:
+  content: STD16
 title:
 - language: en
   script: Latn

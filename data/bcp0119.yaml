@@ -1,8 +1,9 @@
 ---
 id: BCP119
-type: standard
 schema_version: v1.5.6
-formattedref: BCP119
+type: standard
+formattedref:
+  content: BCP119
 title:
 - language: en
   script: Latn

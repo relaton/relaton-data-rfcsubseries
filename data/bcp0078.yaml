@@ -1,8 +1,9 @@
 ---
 id: BCP78
-type: standard
 schema_version: v1.5.6
-formattedref: BCP78
+type: standard
+formattedref:
+  content: BCP78
 title:
 - language: en
   script: Latn
@@ -131,7 +132,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2026
+        formattedref:
+          content: RFC2026
         docidentifier:
         - content: RFC2026
           type: IETF

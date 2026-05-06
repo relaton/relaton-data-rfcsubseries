@@ -1,8 +1,9 @@
 ---
 id: BCP148
-type: standard
 schema_version: v1.5.6
-formattedref: BCP148
+type: standard
+formattedref:
+  content: BCP148
 title:
 - language: en
   script: Latn

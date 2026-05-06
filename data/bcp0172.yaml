@@ -1,8 +1,9 @@
 ---
 id: BCP172
-type: standard
 schema_version: v1.5.6
-formattedref: BCP172
+type: standard
+formattedref:
+  content: BCP172
 title:
 - language: en
   script: Latn
@@ -128,7 +129,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC9774
+        formattedref:
+          content: RFC9774
         docidentifier:
         - content: RFC9774
           type: IETF

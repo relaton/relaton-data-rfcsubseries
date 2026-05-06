@@ -1,8 +1,9 @@
 ---
 id: BCP161
-type: standard
 schema_version: v1.5.6
-formattedref: BCP161
+type: standard
+formattedref:
+  content: BCP161
 title:
 - language: en
   script: Latn

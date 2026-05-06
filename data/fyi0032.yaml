@@ -1,8 +1,9 @@
 ---
 id: FYI32
-type: standard
 schema_version: v1.5.6
-formattedref: FYI32
+type: standard
+formattedref:
+  content: FYI32
 title:
 - language: en
   script: Latn

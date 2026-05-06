@@ -1,8 +1,9 @@
 ---
 id: STD78
-type: standard
 schema_version: v1.5.6
-formattedref: STD78
+type: standard
+formattedref:
+  content: STD78
 title:
 - language: en
   script: Latn
@@ -111,7 +112,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3411
+        formattedref:
+          content: RFC3411
         docidentifier:
         - content: RFC3411
           type: IETF
@@ -244,28 +246,32 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3411
+        formattedref:
+          content: RFC3411
         docidentifier:
         - content: RFC3411
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3412
+        formattedref:
+          content: RFC3412
         docidentifier:
         - content: RFC3412
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3414
+        formattedref:
+          content: RFC3414
         docidentifier:
         - content: RFC3414
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3417
+        formattedref:
+          content: RFC3417
         docidentifier:
         - content: RFC3417
           type: IETF

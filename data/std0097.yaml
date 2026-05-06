@@ -1,8 +1,9 @@
 ---
 id: STD97
-type: standard
 schema_version: v1.5.6
-formattedref: STD97
+type: standard
+formattedref:
+  content: STD97
 title:
 - language: en
   script: Latn
@@ -150,7 +151,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3864
+        formattedref:
+          content: RFC3864
         docidentifier:
         - content: RFC3864
           type: IETF

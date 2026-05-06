@@ -1,8 +1,9 @@
 ---
 id: BCP234
-type: standard
 schema_version: v1.5.6
-formattedref: BCP234
+type: standard
+formattedref:
+  content: BCP234
 title:
 - language: en
   script: Latn
@@ -167,7 +168,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC7084
+        formattedref:
+          content: RFC7084
         docidentifier:
         - content: RFC7084
           type: IETF

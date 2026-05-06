@@ -1,8 +1,9 @@
 ---
 id: BCP4
-type: standard
 schema_version: v1.5.6
-formattedref: BCP4
+type: standard
+formattedref:
+  content: BCP4
 title:
 - language: en
   script: Latn

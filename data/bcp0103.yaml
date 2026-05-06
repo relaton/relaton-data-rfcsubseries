@@ -1,8 +1,9 @@
 ---
 id: BCP103
-type: standard
 schema_version: v1.5.6
-formattedref: BCP103
+type: standard
+formattedref:
+  content: BCP103
 title:
 - language: en
   script: Latn

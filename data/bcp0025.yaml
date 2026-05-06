@@ -1,8 +1,9 @@
 ---
 id: BCP25
-type: standard
 schema_version: v1.5.6
-formattedref: BCP25
+type: standard
+formattedref:
+  content: BCP25
 title:
 - language: en
   script: Latn
@@ -215,7 +216,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2418
+        formattedref:
+          content: RFC2418
         docidentifier:
         - content: RFC2418
           type: IETF
@@ -347,7 +349,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC7776
+        formattedref:
+          content: RFC7776
         docidentifier:
         - content: RFC7776
           type: IETF

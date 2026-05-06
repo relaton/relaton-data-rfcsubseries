@@ -1,8 +1,9 @@
 ---
 id: BCP245
-type: standard
 schema_version: v1.5.6
-formattedref: BCP245
+type: standard
+formattedref:
+  content: BCP245
 title:
 - language: en
   script: Latn
@@ -129,14 +130,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2418
+        formattedref:
+          content: RFC2418
         docidentifier:
         - content: RFC2418
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC9245
+        formattedref:
+          content: RFC9245
         docidentifier:
         - content: RFC9245
           type: IETF

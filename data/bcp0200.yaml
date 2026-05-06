@@ -1,8 +1,9 @@
 ---
 id: BCP200
-type: standard
 schema_version: v1.5.6
-formattedref: BCP200
+type: standard
+formattedref:
+  content: BCP200
 title:
 - language: en
   script: Latn

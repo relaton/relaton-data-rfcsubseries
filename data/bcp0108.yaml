@@ -1,8 +1,9 @@
 ---
 id: BCP108
-type: standard
 schema_version: v1.5.6
-formattedref: BCP108
+type: standard
+formattedref:
+  content: BCP108
 title:
 - language: en
   script: Latn
@@ -110,7 +111,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC6248
+        formattedref:
+          content: RFC6248
         docidentifier:
         - content: RFC6248
           type: IETF

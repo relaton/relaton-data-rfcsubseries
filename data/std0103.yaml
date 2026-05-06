@@ -1,8 +1,9 @@
 ---
 id: STD103
-type: standard
 schema_version: v1.5.6
-formattedref: STD103
+type: standard
+formattedref:
+  content: STD103
 title:
 - language: en
   script: Latn
@@ -126,7 +127,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC6145
+        formattedref:
+          content: RFC6145
         docidentifier:
         - content: RFC6145
           type: IETF

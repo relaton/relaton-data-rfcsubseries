@@ -1,8 +1,9 @@
 ---
 id: BCP72
-type: standard
 schema_version: v1.5.6
-formattedref: BCP72
+type: standard
+formattedref:
+  content: BCP72
 title:
 - language: en
   script: Latn
@@ -219,7 +220,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3552
+        formattedref:
+          content: RFC3552
         docidentifier:
         - content: RFC3552
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP154
-type: standard
 schema_version: v1.5.6
-formattedref: BCP154
+type: standard
+formattedref:
+  content: BCP154
 title:
 - language: en
   script: Latn
@@ -128,7 +129,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC4776
+        formattedref:
+          content: RFC4776
         docidentifier:
         - content: RFC4776
           type: IETF

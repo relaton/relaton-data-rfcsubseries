@@ -1,8 +1,9 @@
 ---
 id: STD89
-type: standard
 schema_version: v1.5.6
-formattedref: STD89
+type: standard
+formattedref:
+  content: STD89
 title:
 - language: en
   script: Latn
@@ -146,7 +147,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2780
+        formattedref:
+          content: RFC2780
         docidentifier:
         - content: RFC2780
           type: IETF

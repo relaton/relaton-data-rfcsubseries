@@ -1,8 +1,9 @@
 ---
 id: BCP187
-type: standard
 schema_version: v1.5.6
-formattedref: BCP187
+type: standard
+formattedref:
+  content: BCP187
 title:
 - language: en
   script: Latn
@@ -186,7 +187,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3315
+        formattedref:
+          content: RFC3315
         docidentifier:
         - content: RFC3315
           type: IETF

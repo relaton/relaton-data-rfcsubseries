@@ -1,8 +1,9 @@
 ---
 id: STD11
-type: standard
 schema_version: v1.5.6
-formattedref: STD11
+type: standard
+formattedref:
+  content: STD11
 title:
 - language: en
   script: Latn
@@ -92,7 +93,8 @@ relation:
     relation:
     - type: obsoletedBy
       bibitem:
-        formattedref: RFC2822
+        formattedref:
+          content: RFC2822
         docidentifier:
         - content: RFC2822
           type: IETF

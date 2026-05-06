@@ -1,8 +1,9 @@
 ---
 id: STD24
-type: standard
 schema_version: v1.5.6
-formattedref: STD24
+type: standard
+formattedref:
+  content: STD24
 title:
 - language: en
   script: Latn

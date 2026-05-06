@@ -1,8 +1,9 @@
 ---
 id: BCP34
-type: standard
 schema_version: v1.5.6
-formattedref: BCP34
+type: standard
+formattedref:
+  content: BCP34
 title:
 - language: en
   script: Latn
@@ -90,7 +91,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1812
+        formattedref:
+          content: RFC1812
         docidentifier:
         - content: RFC1812
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP136
-type: standard
 schema_version: v1.5.6
-formattedref: BCP136
+type: standard
+formattedref:
+  content: BCP136
 title:
 - language: en
   script: Latn

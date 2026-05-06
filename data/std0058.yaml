@@ -1,8 +1,9 @@
 ---
 id: STD58
-type: standard
 schema_version: v1.5.6
-formattedref: STD58
+type: standard
+formattedref:
+  content: STD58
 title:
 - language: en
   script: Latn

@@ -1,8 +1,9 @@
 ---
 id: STD32
-type: standard
 schema_version: v1.5.6
-formattedref: STD32
+type: standard
+formattedref:
+  content: STD32
 title:
 - language: en
   script: Latn

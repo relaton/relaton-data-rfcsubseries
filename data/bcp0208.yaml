@@ -1,8 +1,9 @@
 ---
 id: BCP208
-type: standard
 schema_version: v1.5.6
-formattedref: BCP208
+type: standard
+formattedref:
+  content: BCP208
 title:
 - language: en
   script: Latn

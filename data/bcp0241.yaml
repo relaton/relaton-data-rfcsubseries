@@ -1,8 +1,9 @@
 ---
 id: BCP241
-type: standard
 schema_version: v1.5.6
-formattedref: BCP241
+type: standard
+formattedref:
+  content: BCP241
 title:
 - language: en
   script: Latn

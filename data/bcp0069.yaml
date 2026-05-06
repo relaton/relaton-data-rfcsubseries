@@ -1,8 +1,9 @@
 ---
 id: BCP69
-type: standard
 schema_version: v1.5.6
-formattedref: BCP69
+type: standard
+formattedref:
+  content: BCP69
 title:
 - language: en
   script: Latn

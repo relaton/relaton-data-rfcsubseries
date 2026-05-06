@@ -1,8 +1,9 @@
 ---
 id: BCP239
-type: standard
 schema_version: v1.5.6
-formattedref: BCP239
+type: standard
+formattedref:
+  content: BCP239
 title:
 - language: en
   script: Latn

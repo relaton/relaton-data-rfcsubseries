@@ -1,8 +1,9 @@
 ---
 id: BCP6
-type: standard
 schema_version: v1.5.6
-formattedref: BCP6
+type: standard
+formattedref:
+  content: BCP6
 title:
 - language: en
   script: Latn
@@ -246,7 +247,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1930
+        formattedref:
+          content: RFC1930
         docidentifier:
         - content: RFC1930
           type: IETF
@@ -370,7 +372,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1930
+        formattedref:
+          content: RFC1930
         docidentifier:
         - content: RFC1930
           type: IETF

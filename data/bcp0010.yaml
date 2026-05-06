@@ -1,8 +1,9 @@
 ---
 id: BCP10
-type: standard
 schema_version: v1.5.6
-formattedref: BCP10
+type: standard
+formattedref:
+  content: BCP10
 title:
 - language: en
   script: Latn
@@ -256,7 +257,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC8713
+        formattedref:
+          content: RFC8713
         docidentifier:
         - content: RFC8713
           type: IETF

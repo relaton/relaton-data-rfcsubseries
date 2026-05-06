@@ -1,8 +1,9 @@
 ---
 id: STD42
-type: standard
 schema_version: v1.5.6
-formattedref: STD42
+type: standard
+formattedref:
+  content: STD42
 title:
 - language: en
   script: Latn

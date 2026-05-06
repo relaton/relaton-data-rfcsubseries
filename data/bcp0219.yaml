@@ -1,8 +1,9 @@
 ---
 id: BCP219
-type: standard
 schema_version: v1.5.6
-formattedref: BCP219
+type: standard
+formattedref:
+  content: BCP219
 title:
 - language: en
   script: Latn
@@ -130,7 +131,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2308
+        formattedref:
+          content: RFC2308
         docidentifier:
         - content: RFC2308
           type: IETF

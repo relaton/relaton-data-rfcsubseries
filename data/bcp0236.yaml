@@ -1,8 +1,9 @@
 ---
 id: BCP236
-type: standard
 schema_version: v1.5.6
-formattedref: BCP236
+type: standard
+formattedref:
+  content: BCP236
 title:
 - language: en
   script: Latn
@@ -128,7 +129,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC5155
+        formattedref:
+          content: RFC5155
         docidentifier:
         - content: RFC5155
           type: IETF

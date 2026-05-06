@@ -1,8 +1,9 @@
 ---
 id: BCP190
-type: standard
 schema_version: v1.5.6
-formattedref: BCP190
+type: standard
+formattedref:
+  content: BCP190
 title:
 - language: en
   script: Latn
@@ -93,7 +94,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3986
+        formattedref:
+          content: RFC3986
         docidentifier:
         - content: RFC3986
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP73
-type: standard
 schema_version: v1.5.6
-formattedref: BCP73
+type: standard
+formattedref:
+  content: BCP73
 title:
 - language: en
   script: Latn

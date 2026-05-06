@@ -1,8 +1,9 @@
 ---
 id: BCP127
-type: standard
 schema_version: v1.5.6
-formattedref: BCP127
+type: standard
+formattedref:
+  content: BCP127
 title:
 - language: en
   script: Latn
@@ -309,7 +310,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC4787
+        formattedref:
+          content: RFC4787
         docidentifier:
         - content: RFC4787
           type: IETF
@@ -495,21 +497,24 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC4787
+        formattedref:
+          content: RFC4787
         docidentifier:
         - content: RFC4787
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5382
+        formattedref:
+          content: RFC5382
         docidentifier:
         - content: RFC5382
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5508
+        formattedref:
+          content: RFC5508
         docidentifier:
         - content: RFC5508
           type: IETF

@@ -1,8 +1,9 @@
 ---
 id: BCP168
-type: standard
 schema_version: v1.5.6
-formattedref: BCP168
+type: standard
+formattedref:
+  content: BCP168
 title:
 - language: en
   script: Latn
@@ -116,14 +117,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2113
+        formattedref:
+          content: RFC2113
         docidentifier:
         - content: RFC2113
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2711
+        formattedref:
+          content: RFC2711
         docidentifier:
         - content: RFC2711
           type: IETF

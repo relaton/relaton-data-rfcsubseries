@@ -1,8 +1,9 @@
 ---
 id: BCP160
-type: standard
 schema_version: v1.5.6
-formattedref: BCP160
+type: standard
+formattedref:
+  content: BCP160
 title:
 - language: en
   script: Latn
@@ -211,14 +212,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC3693
+        formattedref:
+          content: RFC3693
         docidentifier:
         - content: RFC3693
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3694
+        formattedref:
+          content: RFC3694
         docidentifier:
         - content: RFC3694
           type: IETF

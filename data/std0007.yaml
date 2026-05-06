@@ -1,8 +1,9 @@
 ---
 id: STD7
-type: standard
 schema_version: v1.5.6
-formattedref: STD7
+type: standard
+formattedref:
+  content: STD7
 title:
 - language: en
   script: Latn
@@ -115,21 +116,24 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1011
+        formattedref:
+          content: RFC1011
         docidentifier:
         - content: RFC1011
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC1122
+        formattedref:
+          content: RFC1122
         docidentifier:
         - content: RFC1122
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC5961
+        formattedref:
+          content: RFC5961
         docidentifier:
         - content: RFC5961
           type: IETF

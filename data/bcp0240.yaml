@@ -1,8 +1,9 @@
 ---
 id: BCP240
-type: standard
 schema_version: v1.5.6
-formattedref: BCP240
+type: standard
+formattedref:
+  content: BCP240
 title:
 - language: en
   script: Latn
@@ -168,21 +169,24 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC6749
+        formattedref:
+          content: RFC6749
         docidentifier:
         - content: RFC6749
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6750
+        formattedref:
+          content: RFC6750
         docidentifier:
         - content: RFC6750
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC6819
+        formattedref:
+          content: RFC6819
         docidentifier:
         - content: RFC6819
           type: IETF

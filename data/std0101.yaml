@@ -1,8 +1,9 @@
 ---
 id: STD101
-type: standard
 schema_version: v1.5.6
-formattedref: STD101
+type: standard
+formattedref:
+  content: STD101
 title:
 - language: en
   script: Latn
@@ -110,7 +111,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2710
+        formattedref:
+          content: RFC2710
         docidentifier:
         - content: RFC2710
           type: IETF

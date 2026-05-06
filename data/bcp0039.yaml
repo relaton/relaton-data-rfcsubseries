@@ -1,8 +1,9 @@
 ---
 id: BCP39
-type: standard
 schema_version: v1.5.6
-formattedref: BCP39
+type: standard
+formattedref:
+  content: BCP39
 title:
 - language: en
   script: Latn
@@ -181,7 +182,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC2850
+        formattedref:
+          content: RFC2850
         docidentifier:
         - content: RFC2850
           type: IETF

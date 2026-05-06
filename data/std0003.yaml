@@ -1,8 +1,9 @@
 ---
 id: STD3
-type: standard
 schema_version: v1.5.6
-formattedref: STD3
+type: standard
+formattedref:
+  content: STD3
 title:
 - language: en
   script: Latn
@@ -88,7 +89,8 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC0793
+        formattedref:
+          content: RFC0793
         docidentifier:
         - content: RFC0793
           type: IETF
@@ -174,14 +176,16 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC0822
+        formattedref:
+          content: RFC0822
         docidentifier:
         - content: RFC0822
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC0952
+        formattedref:
+          content: RFC0952
         docidentifier:
         - content: RFC0952
           type: IETF

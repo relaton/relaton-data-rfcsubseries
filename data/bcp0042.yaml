@@ -1,8 +1,9 @@
 ---
 id: BCP42
-type: standard
 schema_version: v1.5.6
-formattedref: BCP42
+type: standard
+formattedref:
+  content: BCP42
 title:
 - language: en
   script: Latn
@@ -107,28 +108,32 @@ relation:
     relation:
     - type: updates
       bibitem:
-        formattedref: RFC1183
+        formattedref:
+          content: RFC1183
         docidentifier:
         - content: RFC1183
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2845
+        formattedref:
+          content: RFC2845
         docidentifier:
         - content: RFC2845
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC2930
+        formattedref:
+          content: RFC2930
         docidentifier:
         - content: RFC2930
           type: IETF
           primary: true
     - type: updates
       bibitem:
-        formattedref: RFC3597
+        formattedref:
+          content: RFC3597
         docidentifier:
         - content: RFC3597
           type: IETF
