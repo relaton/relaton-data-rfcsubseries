@@ -272,7 +272,7 @@ relation:
         directionality than the feasible-path uRPF (RFC 3704).  The proposed EFP-uRPF
         methods aim to significantly reduce false positives regarding invalid detection
         in source address validation (SAV).  Hence, they can potentially alleviate
-        ISPs' concerns about the possibility of disrupting service for their customers
+        ISPs&#39; concerns about the possibility of disrupting service for their customers
         and encourage greater deployment of uRPF techniques.  This document updates
         RFC 3704.</p>"
     status:

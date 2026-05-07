@@ -256,11 +256,11 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: <p>The Registration Data Access Protocol (RDAP) provides "RESTful"
+      content: "<p>The Registration Data Access Protocol (RDAP) provides &quot;RESTful&quot;
         web services to retrieve registration metadata from Domain Name and Regional
         Internet Registries.  This document describes information security services,
         including access control, authentication, authorization, availability, data
-        confidentiality, and data integrity for RDAP.</p>
+        confidentiality, and data integrity for RDAP.</p>"
     status:
       stage:
         content: INTERNET STANDARD
@@ -375,12 +375,12 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: <p>This document describes uniform patterns to construct HTTP URLs
+      content: "<p>This document describes uniform patterns to construct HTTP URLs
         that may be used to retrieve registration information from registries (including
         both Regional Internet Registries (RIRs) and Domain Name Registries (DNRs))
-        using "RESTful" web access patterns.  These uniform patterns define the query
-        syntax for the Registration Data Access Protocol (RDAP).  This document obsoletes
-        RFC 7482.</p>
+        using &quot;RESTful&quot; web access patterns.  These uniform patterns define
+        the query syntax for the Registration Data Access Protocol (RDAP).  This document
+        obsoletes RFC 7482.</p>"
     status:
       stage:
         content: INTERNET STANDARD

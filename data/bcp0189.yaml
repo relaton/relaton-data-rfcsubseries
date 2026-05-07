@@ -100,7 +100,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>In this document we provide a basic description of ICMP's role
+      content: "<p>In this document we provide a basic description of ICMP&#39;s role
         in the IP stack and some guidelines for future use.</p><p>This document is
         motivated by concerns about lack of clarity concerning when to add new Internet
         Control Message Protocol (ICMP) types and/or codes. These concerns have highlighted

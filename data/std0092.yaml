@@ -100,13 +100,13 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: '<p>The Internet Printing Protocol (IPP) is an application-level protocol
+      content: "<p>The Internet Printing Protocol (IPP) is an application-level protocol
         for distributed printing using Internet tools and technologies.  This document
         defines the rules for encoding IPP operations, attributes, and values into
-        the Internet MIME media type called "application/ipp".  It also defines the
-        rules for transporting a message body whose Content-Type is "application/ipp"
+        the Internet MIME media type called &quot;application/ipp&quot;.  It also
+        defines the rules for transporting a message body whose Content-Type is &quot;application/ipp&quot;
         over HTTP and/or HTTPS.  The IPP data model and operation semantics are described
-        in "Internet Printing Protocol/1.1: Model and Semantics" (RFC 8011).</p>'
+        in &quot;Internet Printing Protocol/1.1: Model and Semantics&quot; (RFC 8011).</p>"
     status:
       stage:
         content: INTERNET STANDARD
@@ -208,7 +208,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: '<p>The Internet Printing Protocol (IPP) is an application-level protocol
+      content: "<p>The Internet Printing Protocol (IPP) is an application-level protocol
         for distributed printing using Internet tools and technologies. This document
         describes a simplified model consisting of abstract objects, attributes, and
         operations that is independent of encoding and transport. The model consists
@@ -218,9 +218,9 @@ relation:
         Printers; and cancel, hold, and release Print Jobs. IPP semantics also allow
         Operators to pause and resume Jobs and Printers.</p><p>Security, internationalization,
         and directory issues are also addressed by the model and semantics. The IPP
-        message encoding and transport are described in "Internet Printing Protocol/1.1:
-        Encoding and Transport" (RFC 8010).</p><p>This document obsoletes RFCs 2911,
-        3381, and 3382.</p>'
+        message encoding and transport are described in &quot;Internet Printing Protocol/1.1:
+        Encoding and Transport&quot; (RFC 8010).</p><p>This document obsoletes RFCs
+        2911, 3381, and 3382.</p>"
     status:
       stage:
         content: INTERNET STANDARD

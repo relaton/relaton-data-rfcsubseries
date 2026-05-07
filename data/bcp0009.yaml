@@ -435,9 +435,9 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: <p>This document updates RFC 2026 to no longer use STD 1 as a summary
-        of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests
-        the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</p>
+      content: "<p>This document updates RFC 2026 to no longer use STD 1 as a summary
+        of &quot;Internet Official Protocol Standards&quot;.  It obsoletes RFC 5000
+        and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -655,9 +655,9 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: <p>This document removes a limit on the number of Area Directors who
-        manage an Area in the definition of "IETF Area".  This document updates RFC
-        2026 (BCP 9) and RFC 2418 (BCP 25).</p>
+      content: "<p>This document removes a limit on the number of Area Directors who
+        manage an Area in the definition of &quot;IETF Area&quot;.  This document
+        updates RFC 2026 (BCP 9) and RFC 2418 (BCP 25).</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -855,12 +855,12 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: <p>In RFC 9280, responsibility for the RFC Series moved to the RFC
+      content: "<p>In RFC 9280, responsibility for the RFC Series moved to the RFC
         Series Working Group and the RFC Series Approval Board.  It is no longer the
         responsibility of the RFC Editor, and the role of the IAB in the RFC Series
-        is altered.  Accordingly, in Section 2.1 of RFC 2026, the sentence "RFC publication
-        is the direct responsibility of the RFC Editor, under the general direction
-        of the IAB" is deleted.</p>
+        is altered.  Accordingly, in Section 2.1 of RFC 2026, the sentence &quot;RFC
+        publication is the direct responsibility of the RFC Editor, under the general
+        direction of the IAB&quot; is deleted.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
