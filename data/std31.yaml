@@ -34,7 +34,7 @@ relation:
     - content: RFC 860
       type: IETF
       primary: true
-    - content: 10.17487/RFC0860
+    - content: 10.17487/RFC860
       type: DOI
     docnumber: RFC860
     date:

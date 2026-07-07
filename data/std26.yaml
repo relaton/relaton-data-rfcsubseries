@@ -34,7 +34,7 @@ relation:
     - content: RFC 868
       type: IETF
       primary: true
-    - content: 10.17487/RFC0868
+    - content: 10.17487/RFC868
       type: DOI
     docnumber: RFC868
     date:

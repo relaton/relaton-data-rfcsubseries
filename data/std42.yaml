@@ -35,7 +35,7 @@ relation:
     - content: RFC 895
       type: IETF
       primary: true
-    - content: 10.17487/RFC0895
+    - content: 10.17487/RFC895
       type: DOI
     docnumber: RFC895
     date:

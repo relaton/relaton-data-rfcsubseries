@@ -34,7 +34,7 @@ relation:
     - content: RFC 791
       type: IETF
       primary: true
-    - content: 10.17487/RFC0791
+    - content: 10.17487/RFC791
       type: DOI
     docnumber: RFC791
     date:
@@ -108,7 +108,7 @@ relation:
     - content: RFC 792
       type: IETF
       primary: true
-    - content: 10.17487/RFC0792
+    - content: 10.17487/RFC792
       type: DOI
     docnumber: RFC792
     date:
@@ -180,7 +180,7 @@ relation:
     - content: RFC 919
       type: IETF
       primary: true
-    - content: 10.17487/RFC0919
+    - content: 10.17487/RFC919
       type: DOI
     docnumber: RFC919
     date:
@@ -259,7 +259,7 @@ relation:
     - content: RFC 922
       type: IETF
       primary: true
-    - content: 10.17487/RFC0922
+    - content: 10.17487/RFC922
       type: DOI
     docnumber: RFC922
     date:
@@ -338,7 +338,7 @@ relation:
     - content: RFC 950
       type: IETF
       primary: true
-    - content: 10.17487/RFC0950
+    - content: 10.17487/RFC950
       type: DOI
     docnumber: RFC950
     date:

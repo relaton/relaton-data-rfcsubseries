@@ -34,7 +34,7 @@ relation:
     - content: RFC 863
       type: IETF
       primary: true
-    - content: 10.17487/RFC0863
+    - content: 10.17487/RFC863
       type: DOI
     docnumber: RFC863
     date:

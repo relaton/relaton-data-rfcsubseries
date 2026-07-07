@@ -34,7 +34,7 @@ relation:
     - content: RFC 959
       type: IETF
       primary: true
-    - content: 10.17487/RFC0959
+    - content: 10.17487/RFC959
       type: DOI
     docnumber: RFC959
     date:
