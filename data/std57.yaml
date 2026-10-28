@@ -1,5 +1,4 @@
 ---
-id: STD57
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -116,8 +115,3 @@ relation:
         content: RIP2-APP
     - vocab:
         content: RIP-2
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

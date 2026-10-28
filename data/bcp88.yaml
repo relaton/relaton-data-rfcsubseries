@@ -1,5 +1,4 @@
 ---
-id: BCP88
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -116,8 +115,3 @@ relation:
         content: PPP
     - vocab:
         content: Point-to-Point Protocol
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

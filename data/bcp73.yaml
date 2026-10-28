@@ -1,5 +1,4 @@
 ---
-id: BCP73
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -159,8 +158,3 @@ relation:
         content: syntax
     - vocab:
         content: uniform resource names
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

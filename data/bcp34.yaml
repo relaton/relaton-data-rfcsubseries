@@ -1,5 +1,4 @@
 ---
-id: BCP34
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -110,8 +109,3 @@ relation:
         content: amplifiers
     - vocab:
         content: denial of service
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

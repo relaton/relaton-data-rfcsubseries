@@ -1,5 +1,4 @@
 ---
-id: BCP122
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -136,8 +135,3 @@ relation:
         content: CIDR-STRA
     - vocab:
         content: global routing state
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

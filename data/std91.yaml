@@ -1,5 +1,4 @@
 ---
-id: STD91
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -138,8 +137,3 @@ relation:
         content: YANG
     - vocab:
         content: XML
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

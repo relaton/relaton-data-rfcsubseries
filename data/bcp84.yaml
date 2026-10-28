@@ -1,5 +1,4 @@
 ---
-id: BCP84
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -296,8 +295,3 @@ relation:
         content: BCP 38
     - vocab:
         content: BCP 84
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

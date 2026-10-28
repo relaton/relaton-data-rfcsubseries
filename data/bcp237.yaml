@@ -1,5 +1,4 @@
 ---
-id: BCP237
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -118,8 +117,3 @@ relation:
         content: DNS Security Extensions
     - vocab:
         content: DNS
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf

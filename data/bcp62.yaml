@@ -1,5 +1,4 @@
 ---
-id: BCP62
 schema_version: v1.5.6
 type: standard
 formattedref:
@@ -143,8 +142,3 @@ relation:
         content: tcp/ip
     - vocab:
         content: subnetworks
-ext:
-  schema_version: v1.1.2
-  doctype:
-    content: rfc
-  flavor: ietf
