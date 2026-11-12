@@ -96,12 +96,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This memo documents the process used by the Internet community
-        for the standardization of protocols and procedures.  It defines the stages
-        in the standardization process, the requirements for moving a document between
-        stages and the types of documents used during this process.  This document
-        specifies an Internet Best Current Practices for the Internet Community, and
-        requests discussion and suggestions for improvements.</p>"
+      content: "<p>This memo documents the process used by the Internet community for the standardization of protocols and procedures.  It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -204,13 +199,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>Advancing a protocol to Draft Standard requires documentation of
-        the interoperation and implementation of the protocol.  Historic reports have
-        varied widely in form and level of content and there is little guidance available
-        to new report preparers.  This document updates the existing processes and
-        provides more detail on what is appropriate in an interoperability and implementation
-        report.  This document specifies an Internet Best Current Practices for the
-        Internet Community, and requests discussion and suggestions for improvements.</p>"
+      content: "<p>Advancing a protocol to Draft Standard requires documentation of the interoperation and implementation of the protocol.  Historic reports have varied widely in form and level of content and there is little guidance available to new report preparers.  This document updates the existing processes and provides more detail on what is appropriate in an interoperability and implementation report.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -349,10 +338,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This document updates the Internet Engineering Task Force (IETF)
-        Standards Process defined in RFC 2026.  Primarily, it reduces the Standards
-        Process from three Standards Track maturity levels to two.  This memo documents
-        an Internet Best Current Practice.</p>"
+      content: "<p>This document updates the Internet Engineering Task Force (IETF) Standards Process defined in RFC 2026.  Primarily, it reduces the Standards Process from three Standards Track maturity levels to two.  This memo documents an Internet Best Current Practice.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -558,10 +544,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>RFC 2026 describes the review performed by the Internet Engineering
-        Steering Group (IESG) on IETF Proposed Standard RFCs and characterizes the
-        maturity level of those documents.  This document updates RFC 2026 by providing
-        a current and more accurate characterization of Proposed Standards.</p>"
+      content: "<p>RFC 2026 describes the review performed by the Internet Engineering Steering Group (IESG) on IETF Proposed Standard RFCs and characterizes the maturity level of those documents.  This document updates RFC 2026 by providing a current and more accurate characterization of Proposed Standards.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -766,8 +749,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This document requires that the IETF never publish any IETF Stream
-        RFCs without IETF rough consensus.  This updates RFC 2026.</p>"
+      content: "<p>This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus.  This updates RFC 2026.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE

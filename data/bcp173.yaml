@@ -157,15 +157,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This document describes the certificate policy for a Public Key
-        Infrastructure (PKI) used to support attestations about Internet Number Resource
-        (INR) holdings.  Each organization that distributes IP addresses or Autonomous
-        System (AS) numbers to an organization will, in parallel, issue a (public
-        key) certificate reflecting this distribution.  These certificates will enable
-        verification that the resources indicated in the certificate have been distributed
-        to the holder of the associated private key and that this organization is
-        the current, unique holder of these resources.  This memo documents an Internet
-        Best Current Practice.</p>"
+      content: "<p>This document describes the certificate policy for a Public Key Infrastructure (PKI) used to support attestations about Internet Number Resource (INR) holdings.  Each organization that distributes IP addresses or Autonomous System (AS) numbers to an organization will, in parallel, issue a (public key) certificate reflecting this distribution.  These certificates will enable verification that the resources indicated in the certificate have been distributed to the holder of the associated private key and that this organization is the current, unique holder of these resources.  This memo documents an Internet Best Current Practice.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -301,10 +293,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This document contains a template to be used for creating a Certification
-        Practice Statement (CPS) for an organization that is part of the Resource
-        Public Key Infrastructure (RPKI), e.g., a resource allocation registry or
-        an ISP.</p>"
+      content: "<p>This document contains a template to be used for creating a Certification Practice Statement (CPS) for an organization that is part of the Resource Public Key Infrastructure (RPKI), e.g., a resource allocation registry or an ISP.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE

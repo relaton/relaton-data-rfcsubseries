@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-rfcsubseries",
   "workflow": "Crawler",
-  "run_id": "43100900023",
+  "run_id": "43309747660",
   "run_attempt": "1",
-  "source_revision": "90e765a99ad3bfda3a835832098f535e72a7bb57",
+  "source_revision": "d337398a479b27390c338d56e1918b3e54dc48aa",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-11T21:12:49Z"
+  "crawled_at": "2026-11-12T21:24:41Z"
 }

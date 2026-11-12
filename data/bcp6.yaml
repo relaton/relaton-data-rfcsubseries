@@ -117,10 +117,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This memo discusses when it is appropriate to register and utilize
-        an Autonomous System (AS), and lists criteria for such.  This document specifies
-        an Internet Best Current Practices for the Internet Community, and requests
-        discussion and suggestions for improvements.</p>"
+      content: "<p>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
@@ -235,11 +232,7 @@ relation:
     abstract:
     - language: en
       script: Latn
-      content: "<p>This document describes the reservation of Autonomous System Numbers
-        (ASNs) that are for Private Use only, known as Private Use ASNs, and provides
-        operational guidance on their use.  This document enlarges the total space
-        available for Private Use ASNs by documenting the reservation of a second,
-        larger range and updates RFC 1930 by replacing Section 10 of that document.</p>"
+      content: "<p>This document describes the reservation of Autonomous System Numbers (ASNs) that are for Private Use only, known as Private Use ASNs, and provides operational guidance on their use.  This document enlarges the total space available for Private Use ASNs by documenting the reservation of a second, larger range and updates RFC 1930 by replacing Section 10 of that document.</p>"
     status:
       stage:
         content: BEST CURRENT PRACTICE
