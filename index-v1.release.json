@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "f3c896479a4e8b0555c929f35b2261d184ae57f2e5d5b1291e2767ee5b70c840",
+  "bytes": 2083,
+  "count": 368,
+  "generated": "2026-11-19T22:04:23Z",
+  "source_revision": "0102eed61bb788510631d122491773e5a05b1773",
+  "run_id": "44624790905",
+  "repository": "relaton/relaton-data-rfcsubseries"
+}

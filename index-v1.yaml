@@ -475,6 +475,8 @@
   :file: data/bcp246.yaml
 - :id: BCP 247
   :file: data/bcp247.yaml
+- :id: BCP 248
+  :file: data/bcp248.yaml
 - :id: FYI 2
   :file: data/fyi2.yaml
 - :id: FYI 3
